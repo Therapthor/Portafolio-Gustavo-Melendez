@@ -12,7 +12,7 @@ import { motion, AnimatePresence } from "framer-motion";
    === CONFIG — EDIT THIS ONLY ===
    ============================= */
 const CONFIG = {
-  profilePhoto: "/Foto_Perfil.JPG",
+  profilePhoto: "/foto_perfil.JPG",
   whatsappLink: "https://wa.me/51977430941",
 
   videos: [
