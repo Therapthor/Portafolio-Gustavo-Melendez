@@ -12,7 +12,7 @@ import { motion, AnimatePresence } from "framer-motion";
    === CONFIG — EDIT THIS ONLY ===
    ============================= */
 const CONFIG = {
-  profilePhoto: "/foto_perfil.JPG", // URL de la foto de perfil (debe estar en la carpeta pública)
+  profilePhoto: "https://therapthor.github.io/Portafolio-Gustavo-Melendez/foto_perfil.JPG", // URL de la foto de perfil (debe estar en la carpeta pública)
   whatsappLink: "https://wa.me/51977430941",
 
   videos: [
